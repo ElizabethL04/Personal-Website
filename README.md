@@ -1,41 +1,32 @@
-# Build a Portfolio With React in Under an Hour
+# Welcome to My Personal Website!
 
-Workshop @ Hack the 6ix 2023
+Hey there! Welcome to my personal website. I'm Elizabeth Lam, and I'm a passionate Computer Science student who is interested in web development, software development, and machine learning. This website is a window into my projects, thoughts, and experiences. Feel free to take a look around and get to know me better.
 
-[Slideshow](https://docs.google.com/presentation/d/e/2PACX-1vShryHWf99RJhrW0zrSOQT2vt9SbBA2PWFqWGUrOn5_lIx0LgWcRm0PGqpTCDBjsYRiiwlb1ycqhoN_/pub?start=false&loop=true&delayms=3000)
+## About Me
 
-## Description
+I'm currently pursuing a Bachelor's degree in Honours Computer Science at the University of Ottawa. When I'm not in front of my computer screen, you can find me reading a book, playing volleyball or trying new foods.
 
-You'll follow along and build your own portfolios that showcase your projects in under an hour. The portfolio will include a short intro section, a projects section, and a contact form. The site will be built with React, you'll push your code to GitHub, and deploy your site with Vercel.
+## Projects
 
-## Setup
+### Project 1: [Project Name]
 
-1. Download [Node.js](https://nodejs.org/en)
-2. Fork this repository
-3. Clone your fork to your local machine
-4. Install packages with `npm install`
+Give a brief overview of your project. What was the problem you were trying to solve, the technologies you used, and the outcome? If possible, provide a link to the project repository or a live demo.
 
-## Contact Form Email Integration
+### Project 2: [Project Name]
 
-1. Sign up for an [EmailJS](https://www.emailjs.com/) account
-2. Create a new email service and connect it with your email account
-3. Copy your user Public Key from the Account settings for later
-4. Copy the Service ID for later
-5. Create an email template and copy the Template ID for later
-6. Copy the following into the Content section of the template
-```
-From: {{ name }}
+Share details about another interesting project. What challenges did you face? How did you overcome them? What did you learn from this project?
 
-Email: {{ email }}
+## Resume
 
-Message: {{ message }}
-```
+You can find my updated resume [here](link-to-your-resume-pdf). Feel free to reach out to me if you find my skills and experiences align with your needs.
 
-## Run the App
+## Contact
 
-1. Run the app using `npm start`
-2. Open http://localhost:3000/ in your browser to view the app
+I'm always excited to connect with fellow tech enthusiasts, potential employers, or anyone who just wants to chat. You can reach me through the following platforms:
 
-## Deploy to Vercel
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
 
-We'll go over this during the workshop.
+## Thank You
+
+Thank you for dropping by and getting to know me a little better. I hope you find something interesting or inspiring during your visit. Don't hesitate to get in touch!
