@@ -18,10 +18,10 @@ const Contact = () => {
       };
       console.log(templateParams);
       await emailjs.send(
-        process.env.EMAILJS_SERVICE_ID,
-        process.env.EMAILJS_TEMPLATE_ID,
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
         templateParams,
-        process.env.EMAILJS_USER_ID
+        process.env.REACT_APP_USER_ID
       );
       reset();
     } catch (e) {
