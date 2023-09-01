@@ -13,7 +13,7 @@ dark purple: #1b193f
 
 .App {
   height: 100vh;
-  background-color: #1b193f;
+  background-color: #17252A;
 }
 
 /* NAVIGATION */
@@ -21,14 +21,14 @@ dark purple: #1b193f
 .navbar {
   width: 100vw;
   height: 5rem;
-  background-color: #2ad8d1;
+  background-color: #2B7A78;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 
 .navbar-link {
-  color: #1b193f;
+  color: #DEF2F1;
   font-family: 'Unica One', sans-serif;
   font-size: 1.5rem;
   text-decoration: none;
@@ -42,7 +42,7 @@ dark purple: #1b193f
 /* PAGES */
 
 .Home, .Projects, .Contact {
-  background-color: #1b193f;
+  background-color: #17252A;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -74,11 +74,10 @@ dark purple: #1b193f
 }
 
 .bio {
-  display:flex;
-  max-width: 750px;
-  background-color: #fff;
+  width: 750px;
+  background-color: #2B7A78;
   border-radius: 1rem;
-  color:#1b193f;
+  color:#DEF2F1;
   font-family: Karla, sans-serif;
   padding: 2rem;
 }
@@ -98,7 +97,7 @@ dark purple: #1b193f
 }
 
 .card-title {
-  font-family: 'Unica One', sans-serif;
+  font-family: Karla, sans-serif;
   font-size: 1.5rem;
   text-align: center;
   margin: 0;
@@ -109,9 +108,9 @@ dark purple: #1b193f
 }
 
 .card-link {
-  background-color: #2ad8d1;
+  background-color: #2B7A78;
   border-radius: 10px;
-  color: #1b193f;
+  color: #DEF2F1;
   font-family: Karla, sans-serif;
   text-decoration: none;
   padding: 10px;
@@ -129,7 +128,7 @@ dark purple: #1b193f
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  margin-bottom: 2rem;
+  padding: 50px;
 }
 
 /* CONTACT */
