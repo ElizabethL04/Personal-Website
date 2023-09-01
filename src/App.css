@@ -74,7 +74,8 @@ dark purple: #1b193f
 }
 
 .bio {
-  width: 750px;
+  display:flex;
+  max-width: 750px;
   background-color: #fff;
   border-radius: 1rem;
   color:#1b193f;
