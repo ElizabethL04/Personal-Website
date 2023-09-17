@@ -24,8 +24,8 @@ You can find my updated resume [here](link-to-your-resume-pdf). Feel free to rea
 
 I'm always excited to connect with fellow tech enthusiasts, potential employers, or anyone who just wants to chat. You can reach me through the following platforms:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
+- Email: elam099@uottawa.ca (mailto:elam099@uottawa.ca)
+- LinkedIn: Elizabeth Lam (www.linkedin.com/in/elizabethlam099)
 
 ## Thank You
 
